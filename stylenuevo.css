@@ -1,0 +1,25 @@
+p{border-style:solid;
+border-color:color
+border:width:2px;}
+p{padding:20px}
+	p{margin:20px}
+	p {border-style:solid;
+   border-color:green;
+   border-width:2px;
+}
+th,td{
+	border:10px solid;
+	border-color:red;
+	padding:25px;
+}
+
+table {
+	border-width:15px;
+	border-style: solid;
+	border-color:blue;
+	border-spacing:25px;
+}
+td{
+	border:12px solid:red;
+	border-color:yellow;
+}
